@@ -3,3 +3,5 @@ Empezando a conocer Git
 Por ahora solo debemos saber como funciona
 
 Platzi
+
+Empezando a estudiar, para mejorar el perfil
