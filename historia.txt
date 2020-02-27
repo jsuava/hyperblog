@@ -1,0 +1,5 @@
+Empezando a conocer Git
+
+Por ahora solo debemos saber como funciona
+
+Platzi
